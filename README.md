@@ -1,2 +1,7 @@
 # Optimizing-Parking-Management-Through-an-Intelligent-System-for-Smarter-Cities
-Our smart parking focuses on addressing the challenges posed by traditional parking systems which are handled by humans by guarding the parking lot. 
+Introduction
+In this document we are going to discuss on our implementation of a Smart Parking System in the context of a smart city. We came with this because we thought that as urbamization continues to rise efficient parking management becomes an important point. This smart parking system uses technology like Machine learning  to address the challenges faced by normal parking systems and contribute to the overall smart city.
+Business Need
+As we said earlier smart parking management does not gather people attention as it seems unnecessary to them but due to rapid growth in the citites increases traffic congestion and leads to inefficient parkings. So these issues create a need for the intelligent parking solution. This helps in reducing traffic flow, making the environment sustainable and also conviniences the citizen. The Smart Parking System addresses this need by introducing a comprehensive and technologically advanced approach to parking management.
+Problem Statement
+The infrastructure for parking that is in place now is antiquated and cannot handle the increasing number of cars. Increased traffic, wasted fuel, and irate residents are the outcomes of this. Our project intends to address these problems by establishing a Smart Parking System that minimises the time and resources spent looking for parking spots by optimising the distribution of parking spaces and giving users access to real-time information.
